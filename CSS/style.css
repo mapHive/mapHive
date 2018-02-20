@@ -98,15 +98,6 @@ html, body {
     height: 650px;
 }
 
-.content {
-    width: 55%;
-    font-family: "nanum myeongjo";
-    font-weight: 100;  
-    position: absolute;
-    top: 40px;
-    right: 0;
-}
-
 #copyright {
     text-align: right;
     font-family: cabin;
