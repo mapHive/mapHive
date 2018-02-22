@@ -84,6 +84,12 @@ html, body {
     color: #5f9ea0;
 }
 
+nav .heading {
+    color: salmon; 
+    font-size: 2.35vw; 
+    font-weight: 900;
+}
+
 /* Homepage Banner & Content */
 
 .banner {
@@ -233,4 +239,19 @@ html, body {
     color: silver;
     font-family: cabin;
     font-size: 0.55vw;
+}
+
+/* Media Queries */
+
+@media only screen and (max-width: 500px) {
+    .main-nav ul {
+        font-size: 20px;
+    }
+    nav .heading {
+        font-size: 40px;
+    }
+    .main-nav li {
+        display: block;
+        padding: 4px;
+    }
 }
