@@ -10,8 +10,8 @@ html, body {
 /* Dropdown Menu */
 
 .dropdown {
-    width: 10%;
-    height: 8%;
+    width: 8%;
+    height: 6%;
     position: relative;
     display: inline-block;
     z-index: 100;
