@@ -258,7 +258,7 @@ div #page {
 
 /* Media Queries */
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 650px) {
     .main_nav ul {
         font-size: 20px;
     }
